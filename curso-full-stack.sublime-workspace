@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Acce",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"cocin",
+				"cocinaSaludo"
+			],
+			[
+				"cocina",
+				"cocinaHecha"
+			],
+			[
+				"findBy",
+				"findByIdAndUpdate"
+			],
+			[
+				"up",
+				"updateSong"
+			],
+			[
+				"song",
+				"songUpdated"
+			],
+			[
+				"son",
+				"songUpdated"
+			],
+			[
+				"al",
+				"albumId"
+			],
+			[
+				"a",
+				"album"
+			],
+			[
+				"sa",
+				"saveSong"
+			],
+			[
+				"album",
+				"deleteAlbum"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"getAl",
+				"getAlbums"
+			],
+			[
+				"artist",
+				"artistId"
+			],
+			[
+				"alb",
+				"albumId"
+			],
+			[
+				"get",
+				"getAlbum"
+			],
+			[
+				"art",
+				"artistRemoved"
+			],
+			[
+				"ar",
+				"artistRemoved"
+			],
+			[
+				"artis",
+				"artistId"
+			],
+			[
+				"updat",
+				"updateArtist"
+			],
+			[
+				"path",
+				"path_File"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"Fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"update",
+				"updateUser"
+			],
+			[
+				"usee",
+				"userUpdated"
+			],
+			[
+				"B",
+				"bcrypt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ps",
+				"params"
+			],
+			[
+				"sch",
+				"Schema"
+			],
+			[
+				"body",
+				"bodyParser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/controllers/album.js",
+			"settings":
+			{
+				"buffer_size": 4026,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/curso full-stack"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/curso full-stack/routes/user.js",
+		"/C/wamp64/www/curso full-stack/controllers/user.js",
+		"/C/wamp64/www/curso full-stack/controllers/album.js",
+		"/C/Users/User/Desktop/proyecto uno/index.js",
+		"/C/Users/User/Desktop/proyecto uno/practicas.html",
+		"/C/wamp64/www/curso full-stack/app.js",
+		"/C/wamp64/www/curso full-stack/package-lock.json",
+		"/C/wamp64/www/curso full-stack/index.js",
+		"/C/wamp64/www/curso full-stack/package.json",
+		"/C/Users/User/Desktop/proyecto uno/package.json",
+		"/C/Users/User/Desktop/proyecto uno/package-lock.json",
+		"/C/wamp64/www/curso full-stack/node_modules/express/Readme.md",
+		"/C/wamp64/www/curso full-stack/controllers/song.js",
+		"/C/wamp64/www/curso full-stack/middlewares/authenticated.js",
+		"/C/wamp64/www/curso full-stack/models/album.js",
+		"/C/wamp64/www/curso full-stack/routes/song.js",
+		"/C/wamp64/www/curso full-stack/models/song.js",
+		"/C/wamp64/www/curso full-stack/routes/album.js",
+		"/C/wamp64/www/curso full-stack/routes/artist.js",
+		"/C/wamp64/www/curso full-stack/models/user.js",
+		"/C/wamp64/www/curso full-stack/controllers/artist.js",
+		"/C/wamp64/www/curso full-stack/models/artist.js",
+		"/C/Users/User/Desktop/proyecto uno/app.js",
+		"/C/wamp64/www/curso full-stack/curso-full-stack.sublime-project",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/model.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/collection.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/schema.js",
+		"/C/wamp64/www/curso full-stack/node_modules/express/lib/request.js",
+		"/C/wamp64/www/curso full-stack/node_modules/express/lib/application.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/aggregate.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/document.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/query.js",
+		"/C/wamp64/www/curso full-stack/services/jwt.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/index.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/utils.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/types/ArraySubdocument.js",
+		"/C/wamp64/www/curso full-stack/node_modules/braces/lib/utils.js",
+		"/C/wamp64/www/curso full-stack/routes/routes.js",
+		"/C/wamp64/www/curso full-stack/uploads/artists/6duyGt5scdcsFlB4AQrz6n_C.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/artists",
+		"/C/wamp64/www/curso full-stack/node_modules/body-parser/index.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mquery/README.md",
+		"/C/wamp64/www/curso full-stack/node_modules/express/lib/response.js",
+		"/C/wamp64/www/curso full-stack/node_modules/mongodb/lib/error.js",
+		"/C/wamp64/www/curso full-stack/node_modules/merge-descriptors/README.md",
+		"/C/wamp64/www/curso full-stack/node_modules/mongoose/lib/schematype.js",
+		"/C/wamp64/www/curso full-stack/node_modules/ipaddr.js/ipaddr.min.js",
+		"/C/wamp64/www/curso full-stack/uploads/users/TyI33qU4lcYTMKiawrZip303.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/users/mLkOC355bKHz-LKGvSevNbt8.png",
+		"/C/wamp64/www/curso full-stack/uploads/users/rse0hAyClB7z4QugCyQlFdEh.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/users/1skRP8r5uFKOa_0H5NZ8gcY8.png",
+		"/C/wamp64/www/curso full-stack/uploads/users/kjsiRDpylfgkzp20-Q34vUcJ.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/users/hnmwNSHTmJm6tXAUqH5UVjg0.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/users/KNFpXwplyaFKZ40nD2ntJBDL.jpg",
+		"/C/wamp64/www/curso full-stack/uploads/users/TM-feUfia8W7wZUdRISXxkqJ.JPG",
+		"/C/wamp64/www/curso full-stack/uploads/users/RVN3dcX-m2W_78ZAzSrK9vtn.JPG",
+		"/C/wamp64/www/curso full-stack/uploads/users/wlJxmluiccCeDVk6MbyUBluR.JPG",
+		"/C/wamp64/www/curso full-stack/node_modules/connect-multiparty/index.js",
+		"/C/Users/User/Desktop/TRANSCRIPCION.jpg",
+		"/C/Users/User/Desktop/Curriculum Ordinario.docx",
+		"/C/wamp64/www/curso full-stack/node_modules/nodemon/README.md",
+		"/C/wamp64/www/curso full-stack/node_modules/express/lib/router/layer.js",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/moment.js",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/LICENSE",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/ender.js",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/CHANGELOG.md",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/moment.d.ts",
+		"/C/wamp64/www/curso full-stack/node_modules/moment/README.md",
+		"/C/wamp64/www/curso full-stack/curso-full-stack.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cocina",
+			"Pidela",
+			"pidela",
+			"var",
+			"color",
+			"marca",
+			"hornillas",
+			"songRemoved",
+			"id",
+			"albumSchema"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/controllers/album.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-full-stack.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
