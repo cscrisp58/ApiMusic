@@ -8,5 +8,3 @@ var ArtistSchema = Schema({
 });
 
 module.exports = mongoose.model('Artist', ArtistSchema);
-
-

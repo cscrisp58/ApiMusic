@@ -1,5 +1,3 @@
-
-
 var express = require('express');
 var bodyParser = require('body-parser');
 
@@ -35,10 +33,3 @@ app.use('/api', song_routes);
 
 
 module.exports = app;
-
-
-
-
-
-
-

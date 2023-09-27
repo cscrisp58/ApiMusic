@@ -1,0 +1,23 @@
+# Ignorar archivos de respaldo generados por editores de texto
+*~
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar la carpeta "node_modules" generada por Node.js
+/node_modules/
+
+# Ignorar archivos compilados
+*.class
+*.jar
+*.war
+
+# Ignorar archivos de configuración local (ejemplo: .env para variables de entorno)
+.env
+
+# Ignorar directorios y archivos específicos (ejemplo: carpeta "build" y archivo "config.xml")
+/build/
+config.xml
+
+# Ignorar archivos de caché
+.cache/

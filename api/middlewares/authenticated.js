@@ -1,6 +1,4 @@
 
-
-
 var jwt = require('jwt-simple');
 var moment = require('moment');
 var secret = 'miclave';
@@ -33,6 +31,3 @@ exports.ensureAuth = function(req, res, next){
 
 		next();  
 };
-
-
-

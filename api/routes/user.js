@@ -1,5 +1,3 @@
-
-
 var express = require('express');
 var UserController = require('../controllers/user');
 var multipart = require('connect-multiparty');
@@ -20,6 +18,4 @@ api.get('/get-image-user/:imageFile', UserController.getImageFile);
 
 
 
-module.exports = api;	 
-
-
+module.exports = api;
