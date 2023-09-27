@@ -6,3 +6,4 @@ This is a full stack web project for a desktop app music.
 - AngularJS
 - VisualStudioCode Lightweight but powerful source code editor which runs on your desktop
 - GIT version management software
+- Mongodb
